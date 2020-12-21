@@ -8,8 +8,8 @@ body {
 }
 
 img {
-  width: 100%;
-  height: auto;
+  min-width: 100%;
+  height: 100vh;
 }
 
 .parallax {
@@ -83,7 +83,6 @@ img {
 }
 
 .parallax__layer__5 {
-  /* position: relative; */
   top: 20px;
   -webkit-transform: translateZ(-50px) scale(1.5);
   transform: translateZ(-50px) scale(1.5);
