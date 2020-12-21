@@ -7,6 +7,11 @@ body {
   background-color: #fedcc8;
 }
 
+img {
+  max-width: 100%;
+  height: auto;
+}
+
 .parallax {
   -webkit-perspective: 100px;
   perspective: 100px;
