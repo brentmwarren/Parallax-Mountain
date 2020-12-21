@@ -42,8 +42,8 @@ img {
 }
 
 .parallax__cover {
-  background: #2b2a38;
-
+  /* background: #2b2a38; */
+  background: #4c4057;
   display: block;
   position: absolute;
   top: 100%;
