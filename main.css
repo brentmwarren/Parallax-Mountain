@@ -83,13 +83,12 @@ img {
 }
 
 .parallax__layer__5 {
-  top: 20px;
+  top: 18px;
   -webkit-transform: translateZ(-50px) scale(1.5);
   transform: translateZ(-50px) scale(1.5);
 }
 
 .parallax__layer__6 {
-  top: 10px;
   -webkit-transform: translateZ(0px) scale(1);
   transform: translateZ(0px) scale(1);
 }
