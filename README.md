@@ -9,8 +9,8 @@ Scroll up and down the page to see the effect produced
 
 ## Crediting and Sources
 
-This project was inspired by a Codepen [Firewatch Parallax CSS](https://codepen.io/samdbeckham/pen/OPXPNp)
-[Original Photo](https://www.pexels.com/photo/silhouette-of-mountains-1323550/) by Simon Matzinger from Pexels
+This project was inspired by a Codepen [Firewatch Parallax CSS](https://codepen.io/samdbeckham/pen/OPXPNp) The
+[Original Photo](https://www.pexels.com/photo/silhouette-of-mountains-1323550/) was take by Simon Matzinger from Pexels
 
 ## Development
 
