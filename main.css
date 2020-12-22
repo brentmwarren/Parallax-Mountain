@@ -65,25 +65,25 @@ img {
 }
 
 .parallax__layer__2 {
-  top: 4px;
+  top: 2px;
   -webkit-transform: translateZ(-200px) scale(3);
   transform: translateZ(-200px) scale(3);
 }
 
 .parallax__layer__3 {
-  top: 8px;
+  top: 5px;
   -webkit-transform: translateZ(-150px) scale(2.5);
   transform: translateZ(-150px) scale(2.5);
 }
 
 .parallax__layer__4 {
-  top: 10px;
+  top: 5px;
   -webkit-transform: translateZ(-100px) scale(2);
   transform: translateZ(-100px) scale(2);
 }
 
 .parallax__layer__5 {
-  top: 18px;
+  top: 9px;
   -webkit-transform: translateZ(-50px) scale(1.5);
   transform: translateZ(-50px) scale(1.5);
 }
