@@ -42,8 +42,7 @@ img {
 }
 
 .parallax__cover {
-  /* background: #2b2a38; */
-  background: #4c4057;
+  background: linear-gradient(#4c4057, #050505);
   display: block;
   position: absolute;
   top: 100%;
